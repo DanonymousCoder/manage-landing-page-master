@@ -1,0 +1,20 @@
+.bg-color {
+    background-color: hsl(0, 0%, 98%);
+}
+
+.orange-bg {
+    background-color: hsl(12, 88%, 59%);
+}
+
+.blue {
+    color: hsl(228, 39%, 23%);
+}
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
