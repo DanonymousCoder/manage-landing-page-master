@@ -22,6 +22,18 @@
     color: hsl(12, 88%, 59%);
 }
 
+.pill {
+    z-index: 10;
+    right: -25px;
+    top: -25px;
+}
+
+.img {
+    background: transparent;
+    z-index: 1000000;
+    position: absolute;
+}
+
 .attribution {
     font-size: 11px;
     text-align: center;
