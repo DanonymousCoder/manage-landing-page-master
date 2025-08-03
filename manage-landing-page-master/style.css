@@ -23,14 +23,12 @@
 }
 
 .pill {
-    z-index: 10;
     right: -25px;
     top: -25px;
 }
 
 .img {
     background: transparent;
-    z-index: 1000000;
     position: absolute;
 }
 
