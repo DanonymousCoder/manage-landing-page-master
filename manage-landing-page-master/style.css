@@ -44,3 +44,19 @@ header {
 .attribution a {
     color: hsl(228, 45%, 44%);
 }
+
+@media screen and (min-width: 900px) {
+    body {
+        overflow-x: hidden;
+    }
+
+    .nav-links {
+        position: unset;
+    }
+
+    .pill {
+        right: -35px;
+        top: -50px;
+        height: 500px;
+    }
+}
